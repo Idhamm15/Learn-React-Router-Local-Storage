@@ -1,0 +1,38 @@
+/* NAVBAR */
+
+#nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 75px;
+  background-color: #009DAE;
+  padding: 0px 15px;
+}
+
+#leftNav {
+  display: flex;
+}
+
+#leftNav h2 {
+  color: #FFE652;
+  user-select: none;
+}
+
+#rightNav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 300px;
+  list-style-type: none;
+}
+
+#rightNav li a {
+  color: #FFE652;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#rightNav li:hover a {
+  color: #FFE652;
+  text-decoration: none;
+}

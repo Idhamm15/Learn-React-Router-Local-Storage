@@ -1,0 +1,14 @@
+/* FOOTER */
+
+#footer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  max-height: 125px;
+  background-color: #009DAE;
+}
+
+#footer h1 {
+  color: #FFE652;
+  user-select: none;
+}

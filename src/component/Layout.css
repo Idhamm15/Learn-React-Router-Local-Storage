@@ -1,0 +1,11 @@
+#layout {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-color: #C2FFF9;
+  gap: 50px;
+  padding: 20px 75px;
+}
